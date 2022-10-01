@@ -14,7 +14,6 @@
 
 #include <iostream>
 #include <list>
-#include <vector>
 
 #include <mmsystem.h>
 
